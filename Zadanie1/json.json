@@ -1,0 +1,35 @@
+{
+    "szable": [
+      {
+        "nazwa": "Szabla husarska",
+        "okres": "XVII wiek",
+        "opis": "Szabla husarska była używana przez polską husarię, elitarną kawalerię Rzeczypospolitej. Charakteryzuje się zakrzywioną głownią, która była odpowiednia do zadawania cięć w walce konnej. Rękojeść miała zamkniętą osłonę, co chroniło dłoń.",
+        "cechy": {
+          "długość": "ok. 100-120 cm",
+          "waga": "ok. 1,2 kg",
+          "materiał": "stal, skóra"
+        }
+      },
+      {
+        "nazwa": "Szabla karabela",
+        "okres": "XVII-XVIII wiek",
+        "opis": "Szabla karabela była popularna wśród polskiej szlachty i miała charakter ceremonialny oraz bojowy. Głownia była mniej zakrzywiona w porównaniu do husarskiej, a rękojeść często zdobiona motywami zwierzęcymi, np. głową orła.",
+        "cechy": {
+          "długość": "ok. 90-100 cm",
+          "waga": "ok. 1 kg",
+          "materiał": "stal, drewno, srebro"
+        }
+      },
+      {
+        "nazwa": "Szabla wz. 34",
+        "okres": "XX wiek",
+        "opis": "Szabla wz. 34 była używana przez polskich oficerów przed II wojną światową. Była to bardziej nowoczesna wersja szabli, z prostszym kształtem i mniej zdobiona, przeznaczona do użytku oficerskiego.",
+        "cechy": {
+          "długość": "ok. 95 cm",
+          "waga": "ok. 0,9 kg",
+          "materiał": "stal, skóra"
+        }
+      }
+    ]
+  }
+  
